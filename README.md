@@ -5,4 +5,4 @@
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com). Hell, World!
-create by [Xinke Li](http://www.librecoder.com).
+create by [Xinke Li](http://www.librecoder.com). on xinux1 computer.
