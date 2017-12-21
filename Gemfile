@@ -24,4 +24,5 @@ end
 group :production do
   gem 'pg', '0.20.0'
 end
+# Windows doe not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platform: [:mingw, :mswin, :x64_mingw, :jruby]
